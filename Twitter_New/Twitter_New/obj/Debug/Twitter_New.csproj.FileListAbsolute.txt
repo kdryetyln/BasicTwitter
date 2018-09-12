@@ -1,0 +1,308 @@
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\ApplicationInsights.config
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Twitter_New.dll.config
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Twitter_New.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Twitter_New.pdb
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\csc.exe
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\csc.exe.config
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\csc.rsp
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\csi.exe
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\csi.exe.config
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\csi.rsp
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.AppContext.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Console.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.IO.Compression.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Security.Claims.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.ValueTuple.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\vbc.exe
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\vbc.exe.config
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\vbc.rsp
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\VBCSCompiler.exe
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Antlr3.Runtime.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.Web.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Newtonsoft.Json.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.Helpers.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.Mvc.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.Optimization.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.Razor.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.WebPages.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.WebPages.Razor.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\WebGrease.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.Helpers.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.Mvc.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.Optimization.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.Razor.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.WebPages.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Web.WebPages.Razor.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Newtonsoft.Json.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Antlr3.Runtime.pdb
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.AI.Web.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.CopyComplete
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\obj\Debug\Twitter_New.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\obj\Debug\Twitter_New.pdb
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\EntityFramework.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\EntityFramework.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\bin\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.first.resources
+C:\Users\kadri\source\repos\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.GenerateResource.cache
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\ApplicationInsights.config
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Twitter_New.dll.config
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Twitter_New.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Twitter_New.pdb
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\csc.exe
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\csc.exe.config
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\csc.rsp
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\csi.exe
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\csi.exe.config
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\csi.rsp
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.AppContext.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Console.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.IO.Compression.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Security.Claims.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.ValueTuple.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\vbc.exe
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\vbc.exe.config
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\vbc.rsp
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\VBCSCompiler.exe
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Antlr3.Runtime.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\EntityFramework.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.Web.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Newtonsoft.Json.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.Helpers.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.Mvc.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.Optimization.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.Razor.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.WebPages.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.WebPages.Razor.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\WebGrease.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\EntityFramework.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.Helpers.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.Mvc.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.Optimization.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.Razor.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.WebPages.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Web.WebPages.Razor.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Newtonsoft.Json.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Antlr3.Runtime.pdb
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.AI.Web.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.first.resources
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.GenerateResource.cache
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.CopyComplete
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.dll
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.pdb
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.second.resources
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.third.resources
+C:\Users\kadri\source\repos\Yeni klasör\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.fourth.resources
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\ApplicationInsights.config
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Twitter_New.dll.config
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Twitter_New.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Twitter_New.pdb
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\csc.exe
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\csc.exe.config
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\csc.rsp
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\csi.exe
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\csi.exe.config
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\csi.rsp
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.AppContext.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Console.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.IO.Compression.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Security.Claims.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.ValueTuple.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\vbc.exe
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\vbc.exe.config
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\vbc.rsp
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\VBCSCompiler.exe
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Antlr3.Runtime.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\EntityFramework.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.Web.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Newtonsoft.Json.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.Helpers.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.Mvc.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.Optimization.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.Razor.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.WebPages.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.WebPages.Razor.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\WebGrease.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\EntityFramework.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.Helpers.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.Mvc.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.Optimization.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.Razor.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.WebPages.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Web.WebPages.Razor.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Newtonsoft.Json.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Antlr3.Runtime.pdb
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AI.Web.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.first.resources
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.second.resources
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.third.resources
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.Migrations.fourth.resources
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.GenerateResource.cache
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.csproj.CopyComplete
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\obj\Debug\Twitter_New.pdb
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.Owin.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.Owin.Security.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Owin.dll
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.Owin.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kadri\source\repos\Yeni klasör (2)\Twitter_New\Twitter_New\bin\Microsoft.Owin.Security.xml

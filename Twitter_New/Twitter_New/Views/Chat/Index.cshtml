@@ -1,0 +1,159 @@
+﻿@using Twitter_New.SessionSetting
+@using Twitter_New.Models
+@{Layout = null;}
+@*@*<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.3.0.min.js"></script>
+    <script src="~/SignalR/Hubs"></script>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <script>
+
+        $(function () {
+            var chat = $.connection.chatHub;
+            var $username = $('#txtUsername');
+            var $message = $('#txtMessage');
+            var $messages = $('#messages');
+            $message.focus();
+            chat.client.sendMessage = function (name, message) {
+                $messages.append('<li><strong>' + name + '</strong>: ' + message + '</li>');
+            };
+            $.connection.hub.start().done(function () {
+                $('#btnSendMessage').click(function () {
+
+                    chat.server.send($username.val(), $message.val());
+
+                    $message.val('').focus();
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    @{ var data = SessionSet<User>.Get("Login");}
+
+    <a href="/Home/Home"><span class="btn btn-block fa fa-home" style="font-size:36px;"></span> Back to Home</a>
+    <div class="row">
+        <label for="txtUserName" style="line-height:80px;color:black;font-weight:bold;">Username: @data.UserName </label>
+        <input type="hidden" id="txtUsername" value="@data.UserName" />
+
+       @Html.TextBox("txtUsername", data.UserName)
+        <br />
+        &nbsp;
+        <label for="txtMessage" style="color:black;font-weight:bold;">Message:  </label> @Html.TextBox("txtMessage")
+
+        <button id="btnSendMessage">Mesaj Yolla</button>
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        &nbsp;
+    </div>
+    <div id="messages"> </div>
+
+
+</body>
+</html>*@
+
+<html>
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" type="text/css" rel="stylesheet" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link href="~/Css/newcss.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery.signalR-2.3.0.min.js"></script>
+    <script src="~/SignalR/Hubs"></script>
+
+    <script>
+
+        $(function () {
+            var chat = $.connection.chatHub;
+            var $username = $('#txtUsername');
+            var $message = $('#txtMessage');
+            var $messages = $('#messages');
+            var $lastmessage = $messages;
+            var tarih = new Date();
+            var yil = tarih.getFullYear();
+            var ay = tarih.getMonth();
+            var gun = tarih.getDay();
+            var saat = tarih.getHours();
+            var dakika = tarih.getMinutes();
+            var saniye = tarih.getSeconds();
+            $message.focus();
+            chat.client.sendMessage = function (name, message) {
+                $messages.append(' <div class="incoming_msg"><div class="incoming_msg_img"> <img src="https://ptetutorials.com/images/user-profile.png" alt="sunil"> </div> <div class="received_msg"></p><strong>' + name + '</strong></p><p>' + message + '</p><span class="time_date"> ' + gun + "/" + ay + "/" + yil + " " + saat + ":" + dakika + ":" + saniye +'</span></div></div></div>');
+                $lastmessage.append('<p>' + lastmessage + '</p>');
+            };
+            $.connection.hub.start().done(function () {
+                $('#btnSendMessage').click(function () {
+
+                    chat.server.send($username.val(), $message.val());
+
+                    $message.val('').focus();
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    @{ var data = SessionSet<User>.Get("Login");}
+    <div><a href="/Home/Home"><span class="btn btn-block fa fa-home" style="font-size:36px;"></span> </a></div>
+    <div class="container">
+        
+        <h3 class=" text-center">Messaging</h3>
+        <div class="messaging">
+            <div class="inbox_msg">
+                <div class="inbox_people">
+                    <div class="headind_srch">
+                        <div class="recent_heading">
+                            <h4>Recent</h4>
+                        </div>
+                        <div class="srch_bar">
+                            <div class="stylish-input-group">
+                                <input type="text" class="search-bar" placeholder="Search">
+                                <span class="input-group-addon">
+                                    <button type="button"> <i class="fa fa-search" aria-hidden="true"></i> </button>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="inbox_chat">
+                        <div class="chat_list active_chat">
+                            <div class="chat_people">
+                                <div class="chat_img"> <img src="https://ptetutorials.com/images/user-profile.png" alt="sunil"> </div>
+                                <div class="chat_ib">
+                                    <h5>Group Chat <span class="chat_date">Dec 25</span></h5>
+                                    <label id="lastmessages"></label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <input type="hidden" id="txtUsername" value="@data.UserName" />
+                <div class="mesgs">
+
+                    <div id="messages" style="width: 650px; height: 500px; overflow-y: scroll;"></div>
+
+                    <div class="type_msg">
+                        <div class="input_msg_write">
+                            @Html.TextBox("txtMessage")
+                            <button class="msg_send_btn" id="btnSendMessage" type="button"><i class="fa fa-paper-plane-o" aria-hidden="true"></i></button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <p class="text-center top_spac"> Design by <a target="_blank" href="#">Sunil Rajput</a></p>
+        </div>
+    </div>
+</body>
+</html>

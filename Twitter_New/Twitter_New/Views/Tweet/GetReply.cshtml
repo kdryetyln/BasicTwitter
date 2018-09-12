@@ -1,0 +1,90 @@
+﻿@using Twitter_New.SessionSetting
+@using Twitter_New.Models
+@model IEnumerable<RepplyTweet>
+@{ Layout = null;
+    TwitterDbContext db = new TwitterDbContext();
+    var rt = db.Retweets.ToList();
+    var tw = db.Tweets.ToList();
+    var like = db.LikedTweets.ToList();
+    var user = db.Users.ToList();
+    var replyCount = db.RepplyTweets.ToList();
+    string reply = "Replying to  @";
+}
+
+<link href="~/Css/Home.css" rel="stylesheet" />
+<div class="col-sm-6">
+    <div class="panel panel-info">
+        <div class="panel-heading">
+            <div class="media">
+                <a class="media-left" href="#fake">
+                    <img alt="" class="media-object img-rounded" src="~/Css/twitter-egg-square.png" width="35" height="35">
+                </a>
+                <div class="media-body">
+                    <div class="form-group has-feedback">
+                        <label class="control-label sr-only" for="inputSuccess5">Hidden label</label>
+                        <input type="text" class="form-control" id="search2" aria-describedby="search" placeholder="What's happening?">
+                        <span class="glyphicon glyphicon-camera form-control-feedback" aria-hidden="true"></span>
+                        <span id="search2" class="sr-only">(success)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="panel-body">
+
+            @foreach (var item in Model)
+{
+    <div class="shadow-lg p-3 mb-5 bg-white">
+        <div class="media">
+            <a class="media-left" href="#fake">
+                <img alt="" class="media-object img-rounded" src="~/Css/twitter-egg-square.png" height="64" width="64">
+            </a>
+            <div class="media-body">
+                <a href="/Home/FriendProfile/@item.UserID"><h4 class="media-heading">@user.Where(k => k.ID == item.UserID).FirstOrDefault().UserName</h4></a>
+                @reply@item.TweetUserName @item.ReplyTweetBody
+                <a href="/Tweet/GetReply/@item.ID" style="color:black"> <h6>@item.CreatedDate</h6></a>
+                <ul class="nav nav-pills nav-pills-custom">
+                    <li><a href="/Tweet/TweetID/@item.ID" data-toggle="modal" data-target="#myModal_comment"><span class="glyphicon glyphicon-comment"></span><span>&nbsp;&nbsp;@replyCount.Where(k => k.TweetID == item.ID).ToList().Count()</span></a></li>
+                    <li>
+                        <a href="/Tweet/ReTweet/@item.ID">
+                            @{ var userID = SessionSet<User>.Get("Login").ID;}
+                            @{var result = rt.Where(k => k.UserID == userID && k.TweetID == item.ID).Any();
+                                if (!result)
+                                { <span class="glyphicon glyphicon-retweet"></span> }
+                                else
+                                { <span class="glyphicon glyphicon-retweet" style="color:#37c42e"></span> }
+                            }<span>&nbsp;&nbsp;@rt.Where(k => k.TweetID == item.ID).ToList().Count()</span>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/Tweet/Liked/@item.ID" data-liked="">
+                            @{ var result2 = like.Where(k => k.userID == userID && k.tweetID == item.ID).Any();
+                                if (!result2)
+                                {<span class="glyphicon glyphicon-heart-empty"></span>}
+                                else
+                                {<span class="glyphicon glyphicon-heart" style="color:red"></span>}
+                            }<span>&nbsp;&nbsp;@like.Where(k => k.tweetID == item.ID).ToList().Count()</span>
+                        </a>
+                    </li>
+
+                    @if (item.UserID == userID)
+                    {
+                        <li><a href="/Tweet/DeleteTweet/@item.ID"><span class="glyphicon glyphicon-trash"></span></a></li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+}
+
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+
+    <div class="panel panel-default">
+        <div class="panel-heading"></div>
+
+    </div>
+</div>
